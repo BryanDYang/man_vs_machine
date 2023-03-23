@@ -1,5 +1,7 @@
 # Rock Paper Scissors
 
+You can view the website here: https://bryandyang.github.io/rock_paper_scissors/
+
 Rock paper scissors game where you play against the computer.
 
 What I learned
