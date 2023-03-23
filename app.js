@@ -26,7 +26,7 @@ function beginningAnimation () {
     fadeIn();
     // need to turn nodelist of spans into an array to access last value for ontransitioned
     const desc1 = document.querySelector("#desc1");
-    let descSpan = desc1.querySelectorAll("span");
+    let desc1Span = desc1.querySelectorAll("span");
 
     desc1Span = Array.from(desc1Span);
 
