@@ -1,6 +1,6 @@
 # Rock Paper Scissors
 
-You can view the website here: https://bryandyang.github.io/rock_paper_scissors/
+You can view the website here: https://bryandyang.github.io/man_vs_machine/
 
 Rock paper scissors game where you play against the computer.
 
